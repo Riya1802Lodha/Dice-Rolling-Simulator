@@ -18,3 +18,7 @@ Whether you're a seasoned gamer or just looking for a fun way to make decisions,
 #Feedback
 If you come across any known bugs, please let me know. I would greatly appreciate your feedback. Feel free to share your thoughts, constructive criticism, or comments about my work. Contact me via email: 
 👉 riyalodha1802@gmail.com. Thank you!
+
+
+https://github.com/Riya1802Lodha/Dice-Rolling-Simulator/assets/143609033/ab79ceb8-4cba-43bc-bae2-724a50481254
+
